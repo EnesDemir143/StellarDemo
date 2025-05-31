@@ -1,4 +1,4 @@
-# 📦 Stellar Click Reward DApp
+# 📦 Click Reward DApp
 
 This project is a decentralized application (DApp) built on the Stellar blockchain that rewards users with tokens for clicking. It's built using Next.js, React, and Stellar/Soroban technologies, offering a modern and interactive user experience.
 
