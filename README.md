@@ -151,5 +151,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Note:** Make sure to have Freighter Wallet installed and connected to Futurenet before testing the application!
 
 ---
-
-Made with ❤️ by [Your Name]
